@@ -13,7 +13,7 @@ for ((i = 1; i < (TOKENS + 1); ++i)); do
 	sleep 0.2
 done
 
-echo -e "\n\e[31mERROR\e[39m : REQUEST BLOCKED BY VALVE!"
+echo -e "\n\e[31mERROR\e[39m : REQUEST BLOCKED BY VALVE!"
 echo -e "\e[31mERROR\e[39m : YOUR STEAM ACCOUNT HAS BEEN BANNED!"
 
 # EOF
